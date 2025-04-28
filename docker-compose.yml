@@ -1,7 +1,10 @@
+version: "3.8"  # Specify Docker Compose version
+
 services:
   vulnerable-kyc-api:
-    build: .
-    container_name: vulnerable-kyc-api
+    build: .  # Builds the Docker image from the current directory (use the Dockerfile here)
+    container_name: vulnerable-kyc-api  # Assign a custom container name
     ports:
-      - "3000:3000"
-    restart: unless-stopped
+      - "3000:3000"  # Expose port 3000 on the host and map it to port 3000 on the container
+    restart: unless-stopped  # Automatically restart unless manually stopped
+

@@ -1,4 +1,4 @@
-version: "1.21"  # Specify Docker Compose version
+version: "2.2"  # Specify Docker Compose version
 
 services:
   vulnerable-kyc-api:

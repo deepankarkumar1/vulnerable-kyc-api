@@ -1,5 +1,4 @@
 
-
 services:
   vulnerable-kyc-api:
     build: .  # Builds the Docker image from the current directory (use the Dockerfile here)

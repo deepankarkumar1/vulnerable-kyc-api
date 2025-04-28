@@ -53,12 +53,12 @@ git clone https://github.com/deepankarkumar1/vulnerable-kyc-api.git
 
 ```bash
 cd vulnerable-kyc-api
+```
 
 3. Create One folder under Vulnerable-kyc-api
 
 ```bash
-mkdir uploads 
-
+mkdir uploads
 ```
 
 3.  Use `docker compose` to build and run the application:

@@ -63,6 +63,11 @@ docker compose up --build
 
 4.  Access the vulnerable-kyc-api application at [http://127.0.0.1:3000](http://127.0.0.1:3000/)
 
+#### Installation Requirements
+
+- **Operating System:** Debian-based system (Kali, Ubuntu, Kubuntu, Linux Mint, Zorin OS)
+- **Privileges:** Execute as root user
+
 
 
 **Disclaimer: As this application is intentionally vulnerable, do not host this on a production environment.** 

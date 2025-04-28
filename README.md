@@ -16,10 +16,10 @@ The OWASP API Top 10 - 2023 consists of the following vulnerabilities:
 
 ## Who can use vulnerable-kyc-api ?
 
-DVAPI is designed for a diverse range of users:
+ is designed for a diverse range of users:
 
 - **API enthusiasts**: Whether you're a beginner or have intermediate knowledge, DVAPI offers a hands-on learning experience to explore API vulnerabilities and enhance your skills.
-- **Security professionals**: Stay up to date with the latest API security trends and the OWASP API Top 10 - 2023 RC. DVAPI allows security professionals to practice identifying API-related risks.
+- **Security professionals**: Stay up to date with the latest API security trends and the OWASP API Top 10 - 2023 RC. vulnerable-kyc-api allows security professionals to practice identifying API-related risks.
 - **Developers**: Developers can learn about potential security pitfalls and adopt best practices to protect their own APIs from common vulnerabilities. DVAPI serves as an educational tool for developers looking to enhance their API security knowledge.
 - **Educators and trainers**: DVAPI provides a comprehensive platform for teaching API security, allowing instructors to engage students in discovering vulnerabilities and applying countermeasures.
 
@@ -41,18 +41,18 @@ All in all, users have the flexibility to assess the APIs via these methods:
 
 ## Setting up vulnerable-kyc-api
 
-To get started with the DVAPI lab, follow the steps below:
+To get started with the vulnerable-kyc-api lab, follow the steps below:
 
 1.  **Clone the repository:**
 
 ```bash
-git clone https://github.com/payatu/DVAPI.git
+git clone https://github.com/deepankarkumar1/vulnerable-kyc-api.git
 ```
 
 2.  Navigate to the DVAPI directory:.
 
 ```bash
-cd DVAPI
+cd vulnerable-kyc-api
 ```
 
 3.  Use `docker compose` to build and run the application:

@@ -36,7 +36,7 @@ It has many functionalities that uses different API endpoints. We have added a P
 All in all, users have the flexibility to assess the APIs via these methods:
 - The application itself
 - Postman collection
-    - Get the Postman collection on 
+    - Get the Postman collection on https://github.com/deepankarkumar1/Vulnerable_kyc_api_collection/blob/main/BFSI%20API%20Lab.postman_collection.json 
     - 
 
 ## Setting up vulnerable-kyc-api
@@ -49,10 +49,16 @@ To get started with the vulnerable-kyc-api lab, follow the steps below:
 git clone https://github.com/deepankarkumar1/vulnerable-kyc-api.git
 ```
 
-2.  Navigate to the DVAPI directory:.
+2.  Navigate to the vulnerable-kyc-api directory:.
 
 ```bash
 cd vulnerable-kyc-api
+
+3. Create One folder under Vulnerable-kyc-api
+
+```bash
+mkdir uploads 
+
 ```
 
 3.  Use `docker compose` to build and run the application:

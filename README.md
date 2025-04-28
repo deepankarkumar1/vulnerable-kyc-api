@@ -64,7 +64,7 @@ mkdir uploads
 3.  Use `docker compose` to build and run the application:
 
 ```bash
-docker compose up --build
+sudo docker-compose up --build
 ```
 
 4.  Access the vulnerable-kyc-api application at [http://127.0.0.1:3000](http://127.0.0.1:3000/)

@@ -16,7 +16,7 @@ The OWASP API Top 10 - 2023 consists of the following vulnerabilities:
 
 ## Who can use vulnerable-kyc-api ?
 
- is designed for a diverse range of users:
+ vulnerable-kyc-api is designed for a diverse range of users:
 
 - **API enthusiasts**: Whether you're a beginner or have intermediate knowledge, DVAPI offers a hands-on learning experience to explore API vulnerabilities and enhance your skills.
 - **Security professionals**: Stay up to date with the latest API security trends and the OWASP API Top 10 - 2023 RC. vulnerable-kyc-api allows security professionals to practice identifying API-related risks.

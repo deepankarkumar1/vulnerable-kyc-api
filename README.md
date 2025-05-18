@@ -18,10 +18,10 @@ The OWASP API Top 10 - 2023 consists of the following vulnerabilities:
 
  vulnerable-kyc-api is designed for a diverse range of users:
 
-- **API enthusiasts**: Whether you're a beginner or have intermediate knowledge, DVAPI offers a hands-on learning experience to explore API vulnerabilities and enhance your skills.
+- **API enthusiasts**: Whether you're a beginner or have intermediate knowledge, vulnerable-kyc-api offers a hands-on learning experience to explore API vulnerabilities and enhance your skills.
 - **Security professionals**: Stay up to date with the latest API security trends and the OWASP API Top 10 - 2023 RC. vulnerable-kyc-api allows security professionals to practice identifying API-related risks.
-- **Developers**: Developers can learn about potential security pitfalls and adopt best practices to protect their own APIs from common vulnerabilities. DVAPI serves as an educational tool for developers looking to enhance their API security knowledge.
-- **Educators and trainers**: DVAPI provides a comprehensive platform for teaching API security, allowing instructors to engage students in discovering vulnerabilities and applying countermeasures.
+- **Developers**: Developers can learn about potential security pitfalls and adopt best practices to protect their own APIs from common vulnerabilities. vulnerable-kyc-api serves as an educational tool for developers looking to enhance their API security knowledge.
+- **Educators and trainers**: vulnerable-kyc-api provides a comprehensive platform for teaching API security, allowing instructors to engage students in discovering vulnerabilities and applying countermeasures.
 
 vulnerable-kyc-api caters to individuals seeking practical knowledge and a deeper understanding of API security, regardless of their background or expertise.
 
@@ -37,7 +37,6 @@ All in all, users have the flexibility to assess the APIs via these methods:
 - The application itself
 - Postman collection
     - Get the Postman collection on https://github.com/deepankarkumar1/Vulnerable_kyc_api_collection/blob/main/BFSI%20API%20Lab.postman_collection.json 
-    - 
 
 ## Setting up vulnerable-kyc-api
 
